@@ -1,0 +1,7 @@
+﻿# complete list of style options can be found at: 
+# http://clang.llvm.org/docs/clangformatstyleoptions.html
+---
+basedonstyle: google
+...
+
+

@@ -1,0 +1,15 @@
+﻿language: c
+
+compiler:
+  - clang
+  - gcc
+
+script:
+  - "make"
+
+notifications:
+  email: false
+  irc:
+    - "irc.freenode.net#libuv"
+
+
